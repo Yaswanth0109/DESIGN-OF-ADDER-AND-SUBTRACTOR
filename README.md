@@ -50,7 +50,7 @@ Write the detailed procedure here
 Program:
 
 Developed by:YASWANTH .V
-RegisterNumber: 25012855
+RegisterNumber: 25010248
 verilog
 //Full adder
 
